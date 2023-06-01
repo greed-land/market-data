@@ -1,4 +1,6 @@
+pandas
 numpy
 pandas
 dash
 jupyter-dash
+scipy
